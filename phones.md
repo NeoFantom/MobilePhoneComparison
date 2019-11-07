@@ -20,13 +20,13 @@
 |                  | 8+256=3399  |                                                                |
 |                  |             |                                                                |
 
-redmi: 7, note, k20
-MI: cc, 9, mix
+redmi: (number), note, k20
+MI: cc, (number), mix
 
 Huawei: mate, p, nova
-Honor: 20, 20s, v20,
+Honor: (number), (number)s, v(number), ...
 
-OPPO: R17, Reno, Reno Ace, K7
+OPPO: R, Reno, Reno Ace, K, ...
 Realme: Realme
 
 vivo: iQOO, NEX, ...
